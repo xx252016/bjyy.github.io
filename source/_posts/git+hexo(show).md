@@ -30,6 +30,16 @@ git remote rm <repository> # 删除远程仓库
 git remote set-url gh git@github.com:xx252016/xx252016.github.io.git # 设置远程仓库地址(用于修改远程仓库地址)
 git remote show gh # 查看远程服务器仓库状态
 
+
+
+
+
+
+
+
+seo优化
+site:<域名>
+site:http://xx252016.oschina.io/blog/
 ---------------------------------------------------------------------------------------------------------git-http://git-scm.com
 --只能跟踪文本文件的改动，比如TXT文件，网页，所有的程序代码等等》（word 二进制格式）
 sudo apt-get install git
